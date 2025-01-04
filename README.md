@@ -29,7 +29,7 @@ Me chamo Domingos Ferreira Alves, sou estudante de Análise e Desenvolvimento de
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
-<br/>
+---
 
 ### 📊 Estatísticas
 
