@@ -37,8 +37,8 @@ Me chamo Domingos Ferreira Alves, sou estudante de Análise e Desenvolvimento de
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" width="450" 
-    style="padding-right: 10px;" 
+    height="200" 
+    style="padding-right: 20px;" 
     src="https://github-readme-stats-custom-five.vercel.app/api?username=dfadomingos&show_icons=true&theme=radical" 
   />
 
