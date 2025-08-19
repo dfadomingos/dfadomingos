@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Domingos Alves
 
-Me chamo Domingos Ferreira Alves, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente indo para o 3° semestre. Apaixonado por tecnologia, com interesses em desenvolvimento de software e análise de dados, estou sempre em busca de novos desafios que me ajudem a aprender, evoluir profissionalmente e contribuir com soluções criativas e eficientes.
+Me chamo Domingos Ferreira Alves, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4° semestre. Apaixonado por tecnologia, com interesses em desenvolvimento de software e análise de dados, estou sempre em busca de novos desafios que me ajudem a aprender, evoluir profissionalmente e contribuir com soluções criativas e eficientes.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/domingos-ferreira-alves-579368132/" target="_blank" rel="noopener noreferrer">
