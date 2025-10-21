@@ -2,7 +2,7 @@
 
 Me chamo Domingos Ferreira Alves, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4° semestre. Apaixonado por tecnologia, com interesses em desenvolvimento de software e análise de dados, estou sempre em busca de novos desafios que me ajudem a aprender, evoluir profissionalmente e contribuir com soluções criativas e eficientes.
 
-Portfólio: <a href = "https://dfadomingos.github.io/portfolio/">
+Portfólio: <a href = https://dfadomingos.github.io/portfolio/">https://dfadomingos.github.io/portfolio/</a>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/domingos-ferreira-alves-579368132/" target="_blank" rel="noopener noreferrer">
