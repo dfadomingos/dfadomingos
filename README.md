@@ -48,7 +48,7 @@ Portfólio: <a href = "https://dfadomingos.github.io/portfolio/" target="_blank"
       align="left" 
       alt="GitHub Stats" 
       height="200"  
-      src="https://github-readme-stats-custom-five.vercel.app/api/top-langs/?username=dfadomingos&show_icons=true&theme=radical&layout=compact&size_weight=0.5&count_weight=1" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfadomingos&show_icons=true&theme=radical&layout=compact&size_weight=0.3&count_weight=1" 
   />
 
 </p>
